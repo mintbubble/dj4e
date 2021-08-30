@@ -1,0 +1,16 @@
+body {
+  font-family: arial, sans-serif;
+}
+h1 {
+  color: green;
+}
+p {
+  border-style: solid;
+  border-color: blue;
+  border-width: 5px;
+}
+a {
+  color: green;
+  background-color: lightgray;
+  text-decoration: none;
+}
